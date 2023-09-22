@@ -10,5 +10,5 @@ public:
         }
         while(arr.size()>s)
             arr.pop_back();
-    }
+    } 
 };
